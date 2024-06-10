@@ -21,4 +21,4 @@ zongwei@cqu.edu.cn
 Recommender System, Poisoning Attacks, Secure Recommender System
 
 #### Featured Project 
-<a href="[https://github.com/Coder-Yu/QRec](https://github.com/CoderWZW/ARLib)"> <img src="[https://github.com/CoderWZW/ARLib/blob/main/img/framework.png](https://github.com/CoderWZW/CoderWZW.github.io/blob/main/static/assets/img/framework.png)" alt="Alt text" width="80%" /><br><br>
+<a href="[https://github.com/Coder-Yu/QRec](https://github.com/CoderWZW/ARLib)"> <img src="[https://github.com/CoderWZW/ARLib/blob/main/img/framework.png](https://github.com/CoderWZW/CoderWZW.github.io/blob/main/static/assets/img/framework.png)" alt="ARLib" width="80%" /><br><br>
