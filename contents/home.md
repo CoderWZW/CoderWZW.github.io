@@ -23,4 +23,5 @@ zongwei@cqu.edu.cn
 Recommender System, Poisoning Attacks, Secure Recommender System
 
 #### Featured Project 
+[ARLib](https://github.com/CoderWZW/ARLib/tree/main) is an open-source framework for conducting data poisoning attacks on recommendation systems, designed to assist researchers and practitioners.
 <a href="https://github.com/CoderWZW/ARLib/tree/main"> <img src="https://github.com/CoderWZW/ARLib/blob/main/img/framework.png" alt="logo" width=500 border="0"></a><br>
