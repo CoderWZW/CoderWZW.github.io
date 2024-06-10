@@ -1,9 +1,5 @@
-- First-prize Academic Scholarship, 2023.
+- (08/06/2024) One co-authored paper titled “Stealthy Attack on Graph Recommendation System” has been accepted by the journal Expert Systems With Applications (ESWA) 2024 (SCI JCR Q1).
 
-- Freshman Academic Scholarship, 2022.
+- (05/06/2024) We have released a survey for poisoning attacks and defenses in recommendations: [Poisoning Attacks and Defenses in Recommender Systems: A Survey](https://arxiv.org/abs/2406.01022).
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- (17/05/2024) We have a full research research paper accepted by the top conference KDD 2024 (CCF A) [Unveiling Vulnerabilities of Contrastive Recommender Systems to Poisoning Attacks](https://arxiv.org/abs/2311.18244). 
