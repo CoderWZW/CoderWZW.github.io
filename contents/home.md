@@ -1,6 +1,6 @@
 He is currently pursuing a Doctor's Degree in School of Big Data & Software Engineering, Chongqing University.
 
-I am a first-year PhD student at the School of Big Data & Software Engineering, Chongqing University, supervised by [Prof. Min Gao](https://www.cse.cqu.edu.cn/info/2095/7111.htm). My research mainly focuses on Secure Recommender Systems. 
+I am a first-year PhD student at the School of Big Data & Software Engineering, Chongqing University, supervised by [Prof. Min Gao](https://www.cse.cqu.edu.cn/info/2095/7111.htm).
 
 In 2024, I was visiting student of the University of Queensland, supervised by [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home).
 
