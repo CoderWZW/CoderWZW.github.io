@@ -1,6 +1,6 @@
 - <strong> Zongwei Wang </strong>, Min Gao, Wentao Li, Junliang Yu, Linxin Guo, Hongzhi Yin. Efficient Bi-Level Optimization for Recommendation Denoising. ACM SIGKDD Conference on Knowledge Discovery and Data Mining. <strong> (KDD 2023, CCF A)</strong>. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599324?casa_token=B7IfeXF2w4wAAAAA:4MzlUjJPlSCvuZuxeDLWQrugwRfpve2tA91pdWnrgJhSkq2kqiIcrnQ5TS-mpOsAr9eRAcd2bCs) [[Code]](https://github.com/CoderWZW/BOD)
 
-- Yunhang Yao, Min Gao, Hongwei Zhou, <strong>Zongwei Wang</strong>, Zehua Zhao, Qingyu Xiong. Ranking Enhanced Fine-grained Contrastive Learning For Recommendation. IEEE International Conference on Acoustics, Speech and Signal Processing. <strong> (ICASSP 2024, CCF B)</strong>
+- Yunhang Yao, Min Gao, Hongwei Zhou, <strong>Zongwei Wang</strong>, Zehua Zhao, Qingyu Xiong. Ranking Enhanced Fine-grained Contrastive Learning For Recommendation. IEEE International Conference on Acoustics, Speech and Signal Processing. <strong> (ICASSP 2024, CCF B)</strong>. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10446207/?casa_token=G5uQJ7cvhVsAAAAA:UVCgpD7jw1bRu7tyAmYDy9YNluXF9EEF7g0NA6EsvLmRzYpyUmGNsDyWCL9DUmi7n7TK1CtZ)
 
 - Shiqi Wang, Chongming Gao, Min Gao, Junliang Yu, <strong>Zongwei Wang</strong>, Hongzhi Yin. Who Are the Best Adopters? User Selection Model for Free Trial Item Promotion. IEEE Transactions on Big Data (TBD), 2023, 9(2): 746-757. <strong>(TBD, SCI JCR Q1)</strong> [[Paper]](https://ieeexplore.ieee.org/document/9882319/) [[Code]](https://github.com/Strawberry47/SMILE)
 
@@ -17,5 +17,3 @@
 - Junwei Zhang, Min Gao*, Junliang Yu, Linda Yang, <strong>Zongwei Wang</strong>, and Qingyu Xiong. Path-based Reasoning over Heterogeneous Networks for Recommendation via Bidirectional Modeling. Neurocomputing, 2021, 461(10), 438-449. <strong>(SCI JCR Q1)</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231221010821?dgcid=author)[[code]](https://github.com/0411tony/Yue).
 
 - <strong> Zongwei Wang </strong>, Min Gao, Xinyi Wang, Junliang Yu, Qingyu Xiong, Junhao Wen. A Minimax Game for Generative and Discriminative Sample Models in Recommendation Systems. The 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining. <strong>(PAKDD 2019, CCF C)</strong>. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-16145-3_33) [[Code]](https://github.com/CoderWZW/UGAN-CWGAN-)
-
-- 
