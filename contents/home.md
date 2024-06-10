@@ -9,11 +9,11 @@ I am a first-year PhD student at the School of Big Data & Software Engineering, 
 zongwei@cqu.edu.cn
 
 #### Education
-2023.09 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
+2023.09 - present, Doctor, Big Data & Software Engineering, Chongqing University.
 
 2022.07 - 2023.09, Research Assistant, Chongqing University.
 
-2018.09 - 2021.06, Bachelor, Software Engineering & Vehical Engineering, Chongqing University.
+2018.09 - 2021.06, Master, Software Engineering & Vehical Engineering, Chongqing University.
 
 2024.09 - 2018.06, Bachelor, Big Data & Software Engineering, Chongqing University.
 
