@@ -1,16 +1,18 @@
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+He is currently pursuing a Doctor's Degree in School of Big Data & Software Engineering, Chongqing University.
 
 #### GitHub
-[ github.com/senli1073](https://github.com/senli1073)
+[ github.com/CoderWZW](https://github.com/CoderWZW)
 
 
 #### Email
-zongwei[at]cqu.edu.cn
+zongwei@cqu.edu.cn
 
 #### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
+2023 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
 
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+2018 - 2021, Bachelor, Software Engineering & Vehical Engineering, Chongqing University.
+
+2014- 2018, Bachelor, Big Data & Software Engineering, Chongqing University.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Recommender System, Poisoning Attacks, Secure Recommendation
