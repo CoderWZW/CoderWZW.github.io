@@ -6,4 +6,4 @@
 
 - (04/06/2024) I have been invited to serve as the reviewer for the journal **SCIENCE CHINA Information Sciences (CCF A)**.
 
-- (17/05/2024) We have a full research research paper accepted by the top conference **KDD 2024 (CCF A)** [Unveiling Vulnerabilities of Contrastive Recommender Systems to Poisoning Attacks](https://arxiv.org/abs/2311.18244). 
+- (17/05/2024) We have a full research research paper accepted by the top conference **KDD 2024 (CCF A)**. [Unveiling Vulnerabilities of Contrastive Recommender Systems to Poisoning Attacks](https://arxiv.org/abs/2311.18244). 
