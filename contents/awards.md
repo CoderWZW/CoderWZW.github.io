@@ -1,3 +1,5 @@
+- (26/09/2024) One co-authored paper titled “LARGE: A leadership perception framework for group recommendation” has been accepted by the journal **Expert Systems With Applications (ESWA) 2024 (SCI JCR Q1)**.
+
 - (13/07/2024) I have been invited to serve as the reviewer for the **KDD 2025 (CCF A)**.
 
 - (08/06/2024) One co-authored paper titled “Stealthy Attack on Graph Recommendation System” has been accepted by the journal **Expert Systems With Applications (ESWA) 2024 (SCI JCR Q1)**.
