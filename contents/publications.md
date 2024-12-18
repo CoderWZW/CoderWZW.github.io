@@ -1,3 +1,5 @@
+- Xu Wang, Nanjie Lai, Peiji Liu, Min Gao, <strong> Zongwei Wang </strong>. A unified adaptive graph structure generation method for spatio-temporal graph forecasting[J]. Knowledge-Based Systems, 2024: 112811. <strong>(SCI JCR Q1)</strong> [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S095070512401445X)
+
 - <strong> Zongwei Wang </strong>, Junliang Yu, Min Gao, Hongzhi Yin, Bin Cui, Shazia Sadiq. Unveiling Vulnerabilities of Contrastive Recommender Systems to Poisoning Attacks. ACM SIGKDD Conference on Knowledge Discovery and Data Mining. <strong> (KDD 2024, CCF A)</strong>. [[Paper]](https://arxiv.org/abs/2311.18244) [[Code]](https://github.com/CoderWZW/ARLib/blob/main/attack/White/CLeaR.py)
 
 - Dingyi Gan, Min Gao, Wentao Li, <strong> Zongwei Wang </strong>, Linxin Guo, Feng Jiang, Yuqi Song: LARGE: A leadership perception framework for group recommendation. Expert Syst. Appl. 260: 125416 (2024) <strong>(SCI JCR Q1)</strong>. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417424022838)
