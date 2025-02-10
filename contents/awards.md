@@ -1,6 +1,6 @@
 - (01/2025) We have a tutorial titled “Towards Secure and Robust Recommender Systems: A Data-Centric Perspective” accepted by the top conference **WSDM 2025 (CCF B)**. 
 
-- (01/2025) One co-authored paper titled “Graph with Sequence: Broad-Range Semantic Modeling for Fake News Detection” has been accepted by the journal **(WWW) 2025 (CCF A)**.
+- (01/2025) One co-authored paper titled “Graph with Sequence: Broad-Range Semantic Modeling for Fake News Detection” has been accepted by the conference **(WWW) 2025 (CCF A)**.
 
 - (26/09/2024) One co-authored paper titled “LARGE: A leadership perception framework for group recommendation” has been accepted by the journal **Expert Systems With Applications (ESWA) 2024 (SCI JCR Q1)**.
 
