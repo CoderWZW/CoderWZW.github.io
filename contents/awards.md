@@ -1,3 +1,5 @@
+- (02/2025) I have been invited to serve as the reviewer for the **SIGIR 2025 (CCF A)**.
+
 - (01/2025) We have a tutorial titled “Towards Secure and Robust Recommender Systems: A Data-Centric Perspective” accepted by the top conference **WSDM 2025 (CCF B)**. 
 
 - (01/2025) One co-authored paper titled “Graph with Sequence: Broad-Range Semantic Modeling for Fake News Detection” has been accepted by the conference **(WWW) 2025 (CCF A)**.
