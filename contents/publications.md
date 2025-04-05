@@ -1,4 +1,6 @@
-- junwei Yin, Min Gao, Kai Shu, Wentao Li, Yinqiu Huang, <strong> Zongwei Wang </strong>. Graph with Sequence: Broad-Range Semantic Modeling for Fake News Detection. <strong> (WWW 2025, CCF A)</strong>.
+- <strong> Zongwei Wang </strong>, Min Gao, Junliang Yu, Xinyi	Gao, Quoc Viet Hung	Nguyen, Shazia Sadiq, Hongzhi Yin. ID-Free Not Risk-Free: LLM-Powered Agents Unveil Risks in ID-Free Recommender Systems. <strong> (SIGIR 2025, CCF A)</strong>.
+
+- Junwei Yin, Min Gao, Kai Shu, Wentao Li, Yinqiu Huang, <strong> Zongwei Wang </strong>. Graph with Sequence: Broad-Range Semantic Modeling for Fake News Detection. <strong> (WWW 2025, CCF A)</strong>.
 
 - <strong> Zongwei Wang </strong>, Junliang Yu, Tong Chen, Hongzhi Yin, Shazia Sadiq, Min Gao. Towards Secure and Robust Recommender Systems: A Data-Centric Perspective. <strong> (WSDM 2025, CCF B)</strong>. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3701551.3703484)
 
