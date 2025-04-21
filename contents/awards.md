@@ -1,3 +1,5 @@
+- (04/2025) I have been invited to serve as the reviewer for the **TKDE(CCF A)**.
+
 - (04/2025) We have a full research research paper accepted by the top conference **SIGIR 2025 (CCF A)**.
 
 - (02/2025) I have been invited to serve as the reviewer for the **SIGIR 2025 (CCF A)**.
