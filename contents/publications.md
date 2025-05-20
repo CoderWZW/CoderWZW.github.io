@@ -1,3 +1,7 @@
+- Yibing Bai, Min Gao, <strong> Zongwei Wang</strong>, Xinyi Gao, Wentao Li. Progressive Stacking for Scalable Graph Condensation. <strong> (KDD 2025, CCF A)</strong>.
+
+- Shunnan Wang, Min Gao, <strong> Zongwei Wang</strong>, Yibing Bai, Feng Jiang, Guansong Pang. FreqLLM: Frequency-Aware Large Language Models for Time Series Forecasting. <strong> (IJCAI 2025, CCF A)</strong>.
+
 - <strong> Zongwei Wang </strong>, Min Gao, Junliang Yu, Xinyi	Gao, Quoc Viet Hung	Nguyen, Shazia Sadiq, Hongzhi Yin. ID-Free Not Risk-Free: LLM-Powered Agents Unveil Risks in ID-Free Recommender Systems. <strong> (SIGIR 2025, CCF A)</strong>.
 
 - Junwei Yin, Min Gao, Kai Shu, Wentao Li, Yinqiu Huang, <strong> Zongwei Wang </strong>. Graph with Sequence: Broad-Range Semantic Modeling for Fake News Detection. <strong> (WWW 2025, CCF A)</strong>.
