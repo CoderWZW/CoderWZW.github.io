@@ -1,6 +1,8 @@
 I am a third-year PhD student at the School of Big Data & Software Engineering, Chongqing University, supervised by [Prof. Min Gao](https://www.cse.cqu.edu.cn/info/2095/7111.htm).
 
-In 2024, I was a visiting student of the University of Queensland, supervised by [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home).
+In 2024, I was a visiting student of the University of Queensland, supervised by [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). 
+
+In 2025, I delivered a first-author tutorial entitled “Towards Secure and Robust Recommender Systems: A Data-Centric Perspective” at WSDM 2025.
 
 I also serve as a reviewer for top conferences, including KDD, SIGIR, WWW, WSDM, and CIKM, as well as leading journals such as TPAMI, TKDE, TOIS, Information Sciences, Neural Networks, and Knowledge-Based Systems.
 
