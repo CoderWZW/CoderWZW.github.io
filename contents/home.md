@@ -1,6 +1,8 @@
-I am a second-year PhD student at the School of Big Data & Software Engineering, Chongqing University, supervised by [Prof. Min Gao](https://www.cse.cqu.edu.cn/info/2095/7111.htm).
+I am a third-year PhD student at the School of Big Data & Software Engineering, Chongqing University, supervised by [Prof. Min Gao](https://www.cse.cqu.edu.cn/info/2095/7111.htm).
 
-In 2024, I was visiting student of the University of Queensland, supervised by [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home).
+In 2024, I was a visiting student of the University of Queensland, supervised by [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home).
+
+I also serve as a reviewer for top conferences, including KDD, SIGIR, WWW, WSDM, and CIKM, as well as leading journals such as TPAMI, TKDE, TOIS, Information Sciences, Neural Networks, and Knowledge-Based Systems.
 
 #### GitHub
 [ github.com/CoderWZW](https://github.com/CoderWZW)
