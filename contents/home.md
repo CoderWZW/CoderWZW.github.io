@@ -17,9 +17,9 @@ zongwei@cqu.edu.cn
 
 2022.07 - 2023.09, Research Assistant, Chongqing University.
 
-2018.09 - 2021.06, Master, Software Engineering & Vehical Engineering, Chongqing University.
+2018.09 - 2021.06, Master, Software Engineering & Vehicle Engineering, Chongqing University.
 
-2024.09 - 2018.06, Bachelor, Big Data & Software Engineering, Chongqing University.
+2014.09 - 2018.06, Bachelor, Big Data & Software Engineering, Chongqing University.
 
 #### Research Interests
 Recommender System, Poisoning Attacks, Secure Recommender System
