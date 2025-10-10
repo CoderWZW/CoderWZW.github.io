@@ -1,6 +1,6 @@
 - Lei Zhou, Min Gao, <strong>Zongwei Wang</strong>, Yibing Bai. Budget and Frequency Controlled Cost-Aware Model Extraction Attack on Sequential Recommenders. <strong>(CIKM 2025, CCF B)</strong>.
 
-- Sijia Li, Min Gao, <strong>Zongwei Wang</strong>, Yibing Bai, Wuhan Chen. Linking Ordered and Orderless Modeling for Sequential Recommendation. <strong>(CIKM 2024, CCF B)</strong>.
+- Sijia Li, Min Gao, <strong>Zongwei Wang</strong>, Yibing Bai, Wuhan Chen. Linking Ordered and Orderless Modeling for Sequential Recommendation. <strong>(CIKM 2025, CCF B)</strong>.
 
 - Xingyu Liu , Min Gao , <strong> Zongwei Wang</strong>, Yinbing Bai. Seeing Sequences like Humans: Pattern Classification Driven Time-Series Forecasting via Vision Language Models. <strong>(CIKM 2025, CCF B)</strong>.
 
