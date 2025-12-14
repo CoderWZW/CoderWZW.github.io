@@ -1,3 +1,5 @@
+- <strong>Wang, Zongwei</strong> and Gao, Min and Yu, Junliang and Sadiq, Shazia and Yin, Hongzhi and Liu, Ling. When Graph Contrastive Learning Backfires: Spectral Vulnerability and Defense in Recommendation[J]. <strong> ACM Transactions on Information Systems. 2025. (CCF A).</strong>
+
 - Lei Zhou, Min Gao, <strong>Zongwei Wang(Co-corresponding author)</strong>, Yibing Bai. Budget and Frequency Controlled Cost-Aware Model Extraction Attack on Sequential Recommenders. <strong>(CIKM 2025, CCF B)</strong>.
 
 - Sijia Li, Min Gao, <strong>Zongwei Wang</strong>, Yibing Bai, Wuhan Chen. Linking Ordered and Orderless Modeling for Sequential Recommendation. <strong>(CIKM 2025, CCF B)</strong>.
