@@ -1,6 +1,18 @@
+- (01/2026) We have two papers accepted by **WWW(CCF A)**.
+
+- (12/2025) We have one paper accepted by **Expert Systems With Applications (ESWA) 2025 (SCI JCR Q1)**.
+
+- (11/2025) We have a paper accepted by **TOIS(CCF A)**.
+
+- (08/2025) We have three papers accepted by **CIKM(CCF B)**.
+
+- (05/2025) We have a full research paper accepted by the top conference **KDD 2025 (CCF A)**.
+    
 - (04/2025) I have been invited to serve as the reviewer for the **TKDE(CCF A)**.
 
-- (04/2025) We have a full research research paper accepted by the top conference **SIGIR 2025 (CCF A)**.
+- (04/2025) We have a full research paper accepted by the top conference **IJCAI 2025 (CCF A)**.
+  
+- (04/2025) We have a full research paper accepted by the top conference **SIGIR 2025 (CCF A)**.
 
 - (02/2025) I have been invited to serve as the reviewer for the **SIGIR 2025 (CCF A)**.
 
