@@ -1,3 +1,8 @@
+- <strong>Zongwei Wang</strong>, Min Gao, Junliang Yu, Tong Chen, Chenghua Lin. PAMAS: Self-Adaptive Multi-Agent System with Perspective
+Aggregation for Misinformation Detection[C]. <strong> WWW, 2026. (CCF A).</strong>
+
+- Chi Wang, Min Gao, <strong>Zongwei Wang</strong>,  Junwei Yin, Kai Shu, Chenghua Lin. Prompt-Induced Linguistic Fingerprints for LLM-Generated Fake News Detection[C]. <strong> WWW, 2026. (CCF A).</strong>
+
 - <strong>Zongwei Wang</strong>, Min Gao, Junliang Yu, Shazia Sadiq, Hongzhi Yin, and Ling Liu. When Graph Contrastive Learning Backfires: Spectral Vulnerability and Defense in Recommendation[J]. <strong> ACM Transactions on Information Systems. 2025. (CCF A).</strong>
 
 - Lei Zhou, Min Gao, <strong>Zongwei Wang(Co-corresponding author)</strong>, Yibing Bai. Budget and Frequency Controlled Cost-Aware Model Extraction Attack on Sequential Recommenders. <strong>(CIKM 2025, CCF B)</strong>.
