@@ -1,3 +1,5 @@
+- (04/2026) We have two papers accepted by **SIGIR(CCF A)**.
+
 - (01/2026) We have two papers accepted by **WWW(CCF A)**.
 
 - (12/2025) We have one paper accepted by **Expert Systems With Applications (ESWA) 2025 (SCI JCR Q1)**.
