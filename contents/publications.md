@@ -1,3 +1,7 @@
+- Yuchuan Zhao, Tong Chen, Junliang Yu, <strong>Zongwei Wang</strong>, Lizhen Cui, Hongzhi Yin. Prompt-Unknown Promotion Attacks against LLM-based Sequential Recommender Systems[C]. <strong>SIGIR, 2026. (CCF A).</strong>
+
+- Yinqiu Huang, Hao Ma, Wenshuai Chen, <strong>Zongwei Wang</strong>, Shuli Wang, Yongqiang Zhang, Xue Wei, Yinhua Zhu, Haitao Wang, Xingxing Wang. Generative Bid Shading in Real-Time Bidding Advertising[C]. <strong>SIGIR, 2026. (CCF A).</strong>
+
 - <strong>Zongwei Wang</strong>, Min Gao, Junliang Yu, Tong Chen, Chenghua Lin. PAMAS: Self-Adaptive Multi-Agent System with Perspective
 Aggregation for Misinformation Detection[C]. <strong> WWW, 2026. (CCF A).</strong>
 
